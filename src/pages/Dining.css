@@ -1,0 +1,57 @@
+.dining-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.dining-page h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #004080;
+}
+
+.dining-page p {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.dining-highlight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.dining-highlight img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dining-details {
+  text-align: left;
+  max-width: 600px;
+}
+
+.dining-details h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #004080;
+}
+
+.dining-details p {
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  color: #555;
+}
+
+.dining-details button {
+  padding: 1rem 2rem;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}
