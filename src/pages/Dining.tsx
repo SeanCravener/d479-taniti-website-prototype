@@ -26,6 +26,20 @@ function Dining() {
           </Link>
         </div>
       </div>
+      <div className="dining-sources">
+        <p>Image Sources:</p>
+        <p>
+          Acartürk, K. C. (2024). A view of the ocean from a restaurant. Pexels.
+          Retrieved December 25, 2024, from{" "}
+          <a
+            href="https://www.pexels.com/photo/a-view-of-the-ocean-from-a-restaurant-27981200/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/a-view-of-the-ocean-from-a-restaurant-27981200/
+          </a>
+          .
+        </p>
+      </div>
     </div>
   );
 }

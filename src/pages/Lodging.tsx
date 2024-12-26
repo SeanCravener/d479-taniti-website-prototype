@@ -37,6 +37,31 @@ function Lodging() {
           </Link>
         </div>
       </div>
+      <div className="lodging-sources">
+        <p>Image Sources:</p>
+        <p>
+          Maldives, A. P. (2021). Aerial View of Beach. Pexels. Retrieved
+          December 25, 2024, from{" "}
+          <a
+            href="https://www.pexels.com/photo/aerial-view-of-beach-9482125/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/aerial-view-of-beach-9482125/
+          </a>
+          .
+        </p>
+        <p>
+          Cottonbro Studio. (2020). Brown Wooden Houses On Beachside Under
+          Coconut Trees. Retrieved December 25, 2024, from{" "}
+          <a
+            href="https://www.pexels.com/photo/brown-wooden-houses-on-beachside-under-coconut-trees-5599599/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/brown-wooden-houses-on-beachside-under-coconut-trees-5599599/
+          </a>
+          .
+        </p>
+      </div>
     </div>
   );
 }

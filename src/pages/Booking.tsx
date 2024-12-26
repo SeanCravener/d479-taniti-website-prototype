@@ -105,6 +105,7 @@ function Booking() {
           selectedOption === "Rainforest Hike" ||
           selectedOption === "Volcano Tour" ||
           selectedOption === "Snorkeling" ||
+          selectedOption === "Zipline" ||
           selectedOption === "Chartered Fishing") && (
           <>
             <label>

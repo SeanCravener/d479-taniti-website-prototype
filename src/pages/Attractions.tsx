@@ -64,6 +64,54 @@ function Attractions() {
           </Link>
         </div>
       </div>
+      <div className="attractions-sources">
+        <p>Image Sources:</p>
+        <p>
+          Sjöström, O. (2018). Two Person Carrying Black Inflatable Pool Float
+          on Brown Wooden Bridge Near Waterfalls. Pexels. Retrieved December 25,
+          2024, from{" "}
+          <a
+            href="https://www.pexels.com/photo/two-person-carrying-black-inflatable-pool-float-on-brown-wooden-bridge-near-waterfalls-1020016/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/two-person-carrying-black-inflatable-pool-float-on-brown-wooden-bridge-near-waterfalls-1020016/
+          </a>
+          .
+        </p>
+        <p>
+          Binamira, A. (2018). Line Of Men Riding On All Terrain Vehicles
+          Holding Out Hand In A Fist. Retrieved December 25, 2024, from{" "}
+          <a
+            href="https://www.pexels.com/photo/line-of-men-riding-on-all-terrain-vehicles-holding-out-hand-in-a-fist-910623/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/line-of-men-riding-on-all-terrain-vehicles-holding-out-hand-in-a-fist-910623/
+          </a>
+          .
+        </p>
+        <p>
+          Desipris, G. (2017). Blue Fishing Boat. Retrieved December 25, 2024,
+          from{" "}
+          <a
+            href="https://www.pexels.com/photo/blue-fishing-boat-722995/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/blue-fishing-boat-722995/
+          </a>
+          .
+        </p>
+        <p>
+          Villarán, M. (2020). Blue Fishing Boat. Retrieved December 25, 2024,
+          from{" "}
+          <a
+            href="https://www.pexels.com/photo/woman-on-zipline-4938780/"
+            target="_blank"
+          >
+            https://www.pexels.com/photo/woman-on-zipline-4938780/
+          </a>
+          .
+        </p>
+      </div>
     </div>
   );
 }
